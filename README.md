@@ -40,5 +40,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufu-sss&" alt="rufu-sss" />
 </p>
 <p align="center">
-  <img src="https://c.tenor.com/jZsnYLE_QxUAAAAd/tenor.gif" width="400" alt="the hobbit"/>
+  <img src="https://c.tenor.com/jZsnYLE_QxUAAAAd/tenor.gif" width="400" alt="the hobbit2"/>
 </p>
