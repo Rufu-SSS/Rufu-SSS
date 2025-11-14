@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rufu-SSS</h1>
 <p align="center">
-  <img src="https://c.tenor.com/QvYdzwACui4AAAAC/tenor.gif" width="300" alt="gif amon amarth"/>
+  <img src="https://c.tenor.com/QvYdzwACui4AAAAC/tenor.gif" width="450" alt="gif amon amarth"/>
 </p>
 <h3 align="center">A passionate developer from Spain</h3>
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I like playing Magic the Gathering and Fallout**
 <p align="center">
-  <img src="https://c.tenor.com/vl_FrsesA8AAAAAd/tenor.gif" width="300" alt="synister gates"/>
+  <img src="https://c.tenor.com/vl_FrsesA8AAAAAd/tenor.gif" width="400" alt="synister gates"/>
 </p>
 
 
