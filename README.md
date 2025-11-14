@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rufu-SSS</h1>
 <p align="center">
-  <img src="https://c.tenor.com/JoxNHHAA_C4AAAAd/tenor.gif" width="500" alt="the hobbit"/>
+  <img src="./Gifs/hobbit.gif" width="500" alt="the hobbit"/>
 </p>
 <h3 align="center">A passionate developer from Spain</h3>
 
@@ -18,16 +18,12 @@
 
 - ⚡ Fun fact **I like playing Magic the Gathering and Fallout**
 <p align="center">
-  <img src="https://c.tenor.com/vl_FrsesA8AAAAAd/tenor.gif" width="400" alt="synister gates"/>
+  <img src="./Gifs/synistergates.gif" width="400" alt="synister gates"/>
 </p>
 
 
 <h3 align="left">Connect with me: bitxu242@gmail.com</h3>
 <p align="left">
-</p>
-
-<p align="center">
-  <img src="https://c.tenor.com/jZsnYLE_QxUAAAAd/tenor.gif" width="400" alt="the hobbit"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,5 +36,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rufu-sss&" alt="rufu-sss" />
 </p>
 <p align="center">
-  <img src="https://c.tenor.com/jZsnYLE_QxUAAAAd/tenor.gif" width="400" alt="the hobbit2"/>
+  <img src="./Gifs/hobbit2.gif" width="400" alt="the hobbit2"/>
 </p>
