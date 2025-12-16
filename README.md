@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rufu-sss" alt="rufu-sss" /></a> </p>
 
-- 🔭 I’m currently working on [RipperBot](https://github.com/Rufu-SSS/RipperBot)
+- 🔭 I’m currently working on [Recull-de-tasques-i-programes](https://github.com/Rufu-SSS/Recull-de-tasques-i-programes)
 
 - 🌱 I’m currently learning **Android studio, Unity, Figma, Blender**
 
