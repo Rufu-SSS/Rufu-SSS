@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rufu-SSS</h1>
 <p align="center">
-  <img src="./Gifs/hobbit.gif" width="500" alt="the hobbit"/>
+  <img src="./Gifs/fallout3.gif" width="500" alt="fallout3gif"/>
 </p>
 <h3 align="center">A passionate developer from Spain</h3>
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I like playing Magic the Gathering and Fallout**
 <p align="center">
-  <img src="./Gifs/synistergates.gif" width="400" alt="synister gates"/>
+  <img src="./Gifs/saw.gif" width="400" alt="sawgif"/>
 </p>
 
 
